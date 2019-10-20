@@ -1,0 +1,10 @@
+.page-header {
+    text-align: center;
+    
+}
+
+.pre-header {
+    border-bottom: 1px;
+    border-color: lightgray;
+    border-style: solid;
+}
