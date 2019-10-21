@@ -32,16 +32,6 @@ footer {
     display: inline-block;
 }
 
-/* footer {
-    padding: 30px 0;
-    clear: both;
-    font-size: 12px;
-    color: #fff;
-    color: #ccc;
-    text-align: center;
-    background: #666;
-    border-top: 8px solid #4aaaa5;
-  } */
 
 nav a:visited {
     color: #e4c3ad; 
