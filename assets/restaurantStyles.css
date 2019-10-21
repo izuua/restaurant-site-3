@@ -1,6 +1,7 @@
 .page-header {
     text-align: center;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: white;
 }
 
 img {
@@ -13,15 +14,15 @@ img {
 }
 
 .wrapper {
-    min-height: 100%;
+    min-height: 750px;
     display: grid;
     grid-template-rows: auto 1fr auto;
 }
 
 footer {
     z-index: -1;
-    /* position: absolute;
-    bottom: 0; */
+    /* position: absolute; */
+    /* bottom: 0;  */
     width: 100%;
     height: 60px;
     text-align: center;
@@ -30,8 +31,8 @@ footer {
     border-style: solid;
     margin-top: 20px;
     display: inline-block;
+    background-color: white;
 }
-
 
 nav a:visited {
     color: #e4c3ad; 
@@ -53,3 +54,7 @@ nav a:hover {
 form {
     margin: 15px;
 }
+
+/* .menu {
+    background-color: black;
+} */
