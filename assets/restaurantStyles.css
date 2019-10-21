@@ -85,3 +85,8 @@ form {
 .main-section {
     color: white;
 }
+
+noscript {
+    background: black;
+    color: white;
+}
