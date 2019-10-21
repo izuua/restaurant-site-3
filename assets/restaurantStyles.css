@@ -81,3 +81,7 @@ form {
 .required {
     font-weight: bold;
 }
+
+.main-section {
+    color: white;
+}
