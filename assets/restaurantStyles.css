@@ -13,6 +13,7 @@ img {
 }
 
 .footer {
+    z-index: -1;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -21,6 +22,7 @@ img {
     border-top: 1px;
     border-color: #F0F0F0;
     border-style: solid;
+    margin-top: 20px;
 }
 
 nav a:visited {
@@ -37,5 +39,9 @@ nav a:hover {
 }
 
 .card {
+    margin: 15px;
+}
+
+form {
     margin: 15px;
 }
