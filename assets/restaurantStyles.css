@@ -22,3 +22,16 @@ img {
     border-color: #F0F0F0;
     border-style: solid;
 }
+
+nav a:visited {
+    color: #e4c3ad; 
+}
+
+nav a:active {
+    font-weight: bold;
+}
+
+nav a:hover {
+    background-color: #fef9ff;
+    color: #5b7d87; 
+}
