@@ -12,10 +12,16 @@ img {
     margin-right: auto;
 }
 
-.footer {
+.wrapper {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+footer {
     z-index: -1;
-    position: fixed;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     width: 100%;
     height: 60px;
     text-align: center;
@@ -23,7 +29,19 @@ img {
     border-color: #F0F0F0;
     border-style: solid;
     margin-top: 20px;
+    display: inline-block;
 }
+
+/* footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #fff;
+    color: #ccc;
+    text-align: center;
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+  } */
 
 nav a:visited {
     color: #e4c3ad; 
