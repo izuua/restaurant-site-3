@@ -90,3 +90,7 @@ noscript {
     background: black;
     color: white;
 }
+
+h5 {
+    text-shadow: 2px 2px #EB6864;
+}
