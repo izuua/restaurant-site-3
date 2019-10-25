@@ -20,6 +20,7 @@ img {
     /* min-height: calc(100vh - 70px); */
     /* min-height: 81vh; */
     flex: 1 0 auto;
+    max-width: 1620px;
 }
 
 html, body {
